@@ -1,13 +1,13 @@
 Demo:
 
 1. Start local server
-2. 
+ 
    [npm run serve]
    
    ![image](https://github.com/Aleksey-Kirsanov/EO_Space/assets/108628088/4475fd4e-85de-4e7c-a990-d1997a68763f)
 
-3. Start App
-4. 
+2. Start App
+   
    [npm run dev]
 
    web:
